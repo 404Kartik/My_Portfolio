@@ -1,0 +1,15 @@
+---
+title: Post2
+author: Kartik
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cabin.png
+alt: image-alt
+description: Hello world
+---
+# Hi how are you
+uhdskhskdjfdksj
+
+## How are
+ssncsjcks

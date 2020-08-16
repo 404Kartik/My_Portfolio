@@ -1,0 +1,79 @@
+---
+layout: post
+client: Start Bootstrap
+category: Web Development
+modal-id: 1
+date: 2014-07-18
+img: safe.png
+description:  Welcome **Hello world**, this is my first Jekyll blog post.
+
+---
+I hope you like it!
+
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+
+What is the first thing which comes to your mind when someone says Tech, IT, or Computers? Yes large tech giants maybe creating monopolies over every possible industry.
+
+
+
+
+
+##Overview
+
+One thing we have learned in the last five years is measuring tech start-ups and how to constantly grow them. During this process, we discovered that there is no singleton technology culture. AliExpress isn’t Amazon, Uber isn’t Didi, SAP isn’t Oracle and even HP isn’t Dell.
+
+Leaders of this new era of Tech know they are competing for talent with other new tech or non-tech organizations. Practically no one applies for a job before reading all the relevant reviews on Glassdoor.
+
+The whole developer world is ideally one large group of people who work on a universal language not divided by any geographical constraint. We shall see how much of it is true
+
+Market differences
+
+Starting from scratch for a developer’s role in a totally new land and environment makes me see how things are moving at different speeds at different corners of the world for the tech space.
+
+I come from the land of spices (India) where I observe a totally different tech territory compared to the “land down under” (Australia) where I am currently studying. The difference in student collaborations, Tech-events, outlook towards IT and even political influence by tech are considerably varying.
+
+India’s tech market is big but so is the number of people competing for this market, Australia has invested well in tech as well and it has less amount of competition right now ( relatively ).
+
+Contrary to this pattern the process of getting your first job can get way tedious in Australia, back home if you are enrolled in any good university, the university almost guarantees you a placement.
+
+##Situation in North America
+
+But this post isn’t just about two countries. I got a lot of inputs from my friends living in North America. North American culture seems different though their education structure for any software related major provides at least two internships ( yes in the degree ) but the conditions of these internships weren’t the best. My peers also told me that they were put in tremendous pressure to deliver which sometimes distracts them from their University studies. Same goes with the working culture, you have to maintain a record of every second of your work and they are taken from you what they pay for. One of the insiders provided by one of my mates was how Amazon Seattle is avoided by a lot of people seeking internships because of the enormous amount of work and pressure implied.
+
+One interesting thing to look at was raised by a peer who was studying Computer Science at The University of British Columbia, he worked as a System Engineer at SAP, Philadelphia. As we know SAP is a German software company but he observed that how SAP had adapted to the local environment of functioning totally.
+
+Personal Expiriences
+
+I worked as an Information Technology Intern in New Delhi for a Dubai based Company and client, there I got to work closely with the clients, and I observed some difference there as well. Though the company took contracts, it worked really closely with the actual clients for every project. Not a lot of pressure was levied which is not a good or bad sign. Although the clients always expected a perfect output no real pressure was there.
+
+I realized the above said after actually working for an Indian company for an Indian client.
+
+Educational differences
+
+Universities and education are also on a different scale in different countries, not talking about any course structure but back home when I studied the Universities were more focused on how you as an individual can develop a code. A lot of effort is put by the universities to develop your individual logical power but it was quite interesting to see how a collaborative is supported and gives better results and is more relevant
+
+Tech-event formats can vary by region as well. Back home I can hardly remember events in which you can enter without submitting an original paper or prove your capability some way or the other but in Australia it seems a lot welcoming that way.
+
+Getting your first job in Australia can require a lot more than just being skillful in your domain. Here you might be skillful but if you are unable to connect and put yourself out, it is really hard for you to land up in a good job. Australia seems to give a lot of values to your interpersonal skills and we could safely say that 50% of the interview depends on your interpersonal skills and the rest 50 on your actual skills. This is one of those things which I see lack back home a lot of hiring goes based on your resume and not a lot of weightage is given to who you actually are. This sometimes has proven regretful for the hiring companies and I believe they are now really working on it.
+
+Conclusion
+
+It was interesting to see how geography can outline the expectation of a developer. Ironically the tech-space is one of those areas which remain undivided by humans but considering how new the whole market of Information Technology and Computer Science is, it is hard to say what to expect. We are already seeing a lot of political interference in tech giants as well. It is going to be interesting to see where this river goes
+
+Thank you for reading,
+
+Have a great work week
+
+Stay Safe
+
+Kartik
+
+linkedin.com/in/kartikkum/ (feel free to connect with me)
